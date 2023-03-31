@@ -92,7 +92,6 @@ form {
   padding: 10px;
 }
 
-/* Agregando responsividad */
 /* Media Queries */
 @media only screen and (min-width: 768px) {
   form {
