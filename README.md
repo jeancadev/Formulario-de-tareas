@@ -5,4 +5,4 @@ muy util📄✏
 * [LinkedIn](https://www.linkedin.com/in/jeancarlosobando/)
 
 ## Ver ejemplo en vivo
-* https://jeancadev.github.io/Formulario-de-tareas/)
+* https://jeancadev.github.io/Formulario-de-tareas/
